@@ -1,3 +1,8 @@
+// Candy Cane Font (Homework 2.2.)
+// Course: Wild Type , WS15/16, BUW
+// Made By Vanya Gercheva
+// Used TTF Lexie Readable, by K-Type ( www.1001freefonts.com ), free for personal use
+
 import geomerative.*;
 //import fontastic.*;
  
